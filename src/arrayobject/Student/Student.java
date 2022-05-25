@@ -5,6 +5,7 @@ public class Student {
     private String name = "Reshabh";
     private int age = 19;
     private int semester;
+    private boolean partTime;
 
     /**
      * @return the name
