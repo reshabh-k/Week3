@@ -24,6 +24,7 @@ public class Main {
         for (int i = 0; i < students.length; i++) {
             System.out.println(students[i]);
         }
+        System.out.println("We are doing a pull operation");
 
     }
 }
